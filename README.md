@@ -17,6 +17,9 @@ The Power BI report includes:
 - **Top Products & Customers**
 - Interactive slicers for Year, Quater,Month
 
+<img width="1337" height="789" alt="image" src="https://github.com/user-attachments/assets/058812c0-3cf0-4166-8ed6-02a4539dd2bf" />
+
+
 ## 🛠️ Tools Used
 
 - **Microsoft Power BI Desktop**
